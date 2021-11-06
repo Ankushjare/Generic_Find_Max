@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\bin\Debug\netcoreapp3.1\MAX_3_Num_Day_13.exe
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\bin\Debug\netcoreapp3.1\MAX_3_Num_Day_13.deps.json
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\bin\Debug\netcoreapp3.1\MAX_3_Num_Day_13.runtimeconfig.json
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\bin\Debug\netcoreapp3.1\MAX_3_Num_Day_13.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\bin\Debug\netcoreapp3.1\MAX_3_Num_Day_13.dll
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\bin\Debug\netcoreapp3.1\MAX_3_Num_Day_13.pdb
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\obj\Debug\netcoreapp3.1\MAX_3_Num_Day_13.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\obj\Debug\netcoreapp3.1\MAX_3_Num_Day_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\obj\Debug\netcoreapp3.1\MAX_3_Num_Day_13.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\obj\Debug\netcoreapp3.1\MAX_3_Num_Day_13.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\obj\Debug\netcoreapp3.1\MAX_3_Num_Day_13.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\obj\Debug\netcoreapp3.1\MAX_3_Num_Day_13.dll
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\obj\Debug\netcoreapp3.1\MAX_3_Num_Day_13.pdb
+C:\Users\Ankush\Desktop\Dayy 13\MAX_3_Num_Day_13\MAX_3_Num_Day_13\obj\Debug\netcoreapp3.1\MAX_3_Num_Day_13.genruntimeconfig.cache
